@@ -1,0 +1,1 @@
+# Yapay-Zeka-ve-Makine-Ogrenmesi-18-Haziran-2022
