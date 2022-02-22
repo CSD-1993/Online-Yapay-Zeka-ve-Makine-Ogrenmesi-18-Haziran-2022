@@ -1,4 +1,4 @@
-# Online Yapay Zeka ve Makine Öğrenmesi Kursu (200 saat)
+# Online Yapay Zeka ve Makine Öğrenmesi Kursu (220 saat)
 
 * __Gözden Geçirme ve Hazırlık__
 
@@ -30,7 +30,7 @@
   * Anakütle ve Örneklem Kavramları
   * Olasılıkla İlgili Temel Bilgiler 
   * Varyans, Kovaryans ve Korelasyon Kavramları
-  * ython'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
+  * Python'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
   * Olasılık Dağılımları
   * Hipotez Testleri ve Hipotez Testlerinde Kullanılan Kavramlar ve Onların Anlamları
   
