@@ -62,7 +62,7 @@ Online Yapay Zeka ve Makine Öğrenmesi Kursu (220 saat)
 32
   * Varyans, Kovaryans ve Korelasyon Kavramları
 33
-  * ython'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
+  * Python'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
 34
   * Olasılık Dağılımları
 35
