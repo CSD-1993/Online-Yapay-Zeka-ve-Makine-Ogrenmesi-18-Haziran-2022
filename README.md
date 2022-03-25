@@ -1,4 +1,4 @@
-# Yapay-Zeka-ve-Makine-Ogrenmesi-18-Haziran-2022
+# Online-Yapay-Zeka-ve-Makine-Ogrenmesi-18-Haziran-2022
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs 18 Haziran 2022 tarihinde başlayacaktır.
