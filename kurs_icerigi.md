@@ -13,7 +13,7 @@
   * Yapay Zekanın Alt Alanları
   * Yapay Zekanın Uygulama Alanları
   * Öğrenme Nedir? Makineler Öğrenebilir mi?
-  * İnsan Öğrenmesinin Bilinen Süreçleri (Klasik Koşullanma, Edimsel Koşullanma, Taklit Yoluyla Öğrenme, Bilişsel Öğrenme, Sosyal Bilişsel Öğrenme)
+  * İnsan Öğrenmesinin Bilinen Süreçleri (Klasik Koşullanma, Edimsel Koşullanma, Bilişsel Öğrenme, Sosyal Bilişsel Öğrenme)
   * Makine Öğrenmesi Nedir?
   * Makine Öğrenmesinin Çeşitleri: Denetimli (Supervised) Öğrenme, Denetimsiz (Unsupervised) Öğrenme ve Pekiştirmeli (Reinforcement) Öğrenme Kavramları
   * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi.
@@ -196,13 +196,23 @@
   * Karar Ağaçlarıyla Lojistik OLmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Sınıflandırma ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
 
+* __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
+
+  * Ensemble Yöntemler Nedir?
+  * Boosting Yöntemleri 
+  * Bagging Yöntemleri
+  * Stacking Yöntemleri
+  * Rassal Orman (Random Forest) Yöntemleri
+  * KFold Validation Yönteminin Anlamı ve Uygulama Alanları
+  * Scikit-Learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
+
 * __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
 
   * AutoKeras Kütüphanesinin Kullanımı
   * AutoSklearn Kütüphanesinin Kullanımı
   * TPOT Kütüphanesinin Kullanımı
 
-* __Pekiştirmeli Öğrenme (Reinforcemnt Learning)__
+* __Pekiştirmeli Öğrenme (Reinforcement Learning)__
 
   * Pekiştirmeli Öğrenme Nedir?
   * İnsan Öğrenmesinde Edimsel Koşullanma (Operant Conditioning)
@@ -221,10 +231,10 @@
 
 * __Veri Bilimi ve Makine Öğrenmesi İçin Cloud Ortamlarının Kullanılması__
 
-  * Amazon AWS Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
-  * Google Cloud Platform Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
-  * Microsoft Azure Platformu Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
-  * IBM Watson Platformu Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
+  * Amazon AWS SageMaker İle Makine Öğrenmesi Uygulamaları
+  * Google Cloud Platform Üzerinde Makine Öğrenmesi Uygulamaları
+  * Microsoft Azure Platformu Üzerinde Makine Öğrenmesi Uygulamaları
+  * IBM Watson Platformu Üzerinde Makine Öğrenmesi Uygulamaları
 
 
 
