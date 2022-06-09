@@ -16,31 +16,34 @@
   * İnsan Öğrenmesinin Bilinen Süreçleri (Klasik Koşullanma, Edimsel Koşullanma, Bilişsel Öğrenme, Sosyal Bilişsel Öğrenme)
   * Makine Öğrenmesi Nedir?
   * Makine Öğrenmesinin Çeşitleri: Denetimli (Supervised) Öğrenme, Denetimsiz (Unsupervised) Öğrenme ve Pekiştirmeli (Reinforcement) Öğrenme Kavramları
-  * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi.
+  * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi
   * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir? 
-  * İstatistikte Ölçek Türleri 
-  * Python'da İstatistiksel Tabloların (Veri Kümelerinin) Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
+  * İstatistiksel Ölçek Türleri 
+  * Python'da Veri Kümelerinin Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
   * CSV Dosyalarından, Excel Dosyalarından, Veritabanlarından Verilerin Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
   * One Hot Encoding İşlemi ve Anlamı
 
 * __Biraz İstatistik__
   
-  * Betimsel (Desvcriptive) ve Çıkarımsal (Inferential) İstatistik
+  * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik
   * Anakütle ve Örneklem Kavramları
   * Olasılıkla İlgili Temel Bilgiler 
-  * Varyans, Kovaryans ve Korelasyon Kavramları
   * Python'da Betimsel İstatistik İle İlgili Kütüphanelerin Yeniden Gözden Geçirilmesi
+  * Rassal Değişken Kavramı
   * Olasılık Dağılımları
-  * Hipotez Testleri ve Hipotez Testlerinde Kullanılan Kavramlar ve Onların Anlamları
+  * Çok Karşılaşılan Bazı Sürekli Dağılımlar
+  * Merkezi Limit Teoremi
+  * Güven Aralıkları (Confidence Intervals)
+  * İstatistiksel Hipotez Testleri, Hipotez Testlerinde Kullanılan Kavramlar ve Onların Anlamları
   
 * __Yapay Sinir Ağları__
 
   * İnsanın Sinir Sisteminin Anatomi ve Fizyolojisi İle İlgili Temel Bilgiler (Nöronlar, Nörotransmiter'ler, Sinaps'lar)
-  * Öğrenme Beyinde Nasıl Gerçekleşiyor? 
-  * Bilgiler Beyinde Nasıl Tutuluyor? 
+  * Öğrenme Beyinde Nasıl Gerçekleşmektedir? 
+  * Bilgiler Beyinde Nasıl Tutulmaktadır? 
   * Duyum ve Algı Kavramları 
-  * Beynin Bilinenleri ve Bilinmeyenleri.
+  * Beynin Bilinenleri ve Bilinmeyenleri
   * Yapay Sinir Ağı Nedir?
   * Yapay Sinir Ağlarının Tarihsel Gelişimi
   * Yapay Sinir Ağlarının Uygulama Alanları
