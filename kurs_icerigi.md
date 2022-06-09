@@ -82,20 +82,6 @@
   * Autoencoder Modelleri
   * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
 
-* __TensorFlow Kütüphanesinin Kullanımı__
-
-  * TensorFlow kütüphanesinin Tarihsel Gelişimi
-  * TensorFlow Küyüphenesinin Kurulumu
-  * TensowFlow Kütüphansinin 1'li Versyonlarının Kullanımı
-  * Tensor Nesnelerinin Oluşturulması
-  * TensorFlow'da Değişkenler
-  * İfadelerin İşetilmesi ve Session Kavramı
-  * Değişkenler ve Sabitler Üzerinde eval İşlemleri
-  * TensorFlow'da Yer Turucular (Place Holders)
-  * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
-  * TensorFlow'da Yapay Sinir Ağı Örnekleri
-  * TensowFlow Kütüphansinin 2'li Versyonlarının Kullanımı
-
 * __Yapay Sinir Ağları İle Metinler Üzerinde İşlemler__
 
   * Metinsel Verilerde Embedding İşlemleri
@@ -113,13 +99,41 @@
   * Hareketli Görüntü Verileri Üzerinde İşlemler
   * Yapay Sinir Ağı İle Resim Tanıma Uygulamaları
   * Renkli Resimler Üzerinde Uygulamalar
+  
+* __TensorFlow Kütüphanesinin Kullanımı__
+
+  * TensorFlow kütüphanesinin Tarihsel Gelişimi
+  * TensorFlow Küyüphenesinin Kurulumu
+  * TensowFlow Kütüphansinin 1'li Versyonlarının Kullanımı
+  * Tensor Nesnelerinin Oluşturulması
+  * TensorFlow'da Değişkenler
+  * İfadelerin İşetilmesi ve Session Kavramı
+  * Değişkenler ve Sabitler Üzerinde eval İşlemleri
+  * TensorFlow'da Yer Turucular (Place Holders)
+  * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
+  * TensorFlow'da Yapay Sinir Ağı Örnekleri
+  * TensowFlow Kütüphansinin 2'li Versyonlarının Kullanımı
+  
+  * __PyTorch Kütüphanesinin Kullanımı__
+
+  * PyTorch Kütüphanesinin Kurulumu
+  * PyToch Kütüphanesinin Temel Özellikleri
+  * PyTorch Kütüphanesinde Temel Çalışma Biçimi
+  * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
+  
+  *__Theano Kütüphanesinin Kullanımı__
+  
+  * Theano Kütüphanesinin Kurulumu
+  * Theano Kütüphanesinin Kurulumu
+  * Theano Kütüphanesinin Temel Özellikleri
+  * Theano Kütüphanesi ile Yapay Sinir Ağlarının Oluşturulması
 
 * __Denetimsiz Öğrenme (Unsupervised Learning)__
 
   * Kümeleme (Clustering) İşlemleri
   * K-Means Kümeleme Yöntemi
   * Hiyerarşik Kümeleme Yöntemleri
-  * Yoğun Temelli DBSCAN ve OPTICS Kümeleme Yöntemleri
+  * Yoğunkluk Temelli DBSCAN ve OPTICS Kümeleme Yöntemleri
   * Kümeleme İşlemlerinde Diğer Önemli Yöntemler
   * Kümeleme Yöntemlerinin Birbirleriyle Karşılaştırılması
 
@@ -157,7 +171,7 @@
 
 * __İstatistiksel Yöntemlerle Regresyon İşlemleri__
 
-  * Basit Doğrulsal Regresyon 
+  * Basit Doğrusal Regresyon 
   * Çoklu Doğrusal Regresyon
   * Çoklu Doğrusal Regresyonda Düzenleme İşlemleri
   * Polinomsal Regresyon
@@ -177,23 +191,11 @@
   
   * __Karar Ağaçları (Decision Trees)___
 
-  * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
-  * Destek Vektör Makineleri İle Lojistik Regresyon Problemlerinin Çözümü
-  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
-  * Destek Vektör Makineleri İle İstatistiksel Regresyon İşlemlerinin Karşılaştırılması
+  * Karar Ağaçlarının Dayandığı MatematikselTemeller
+  * Karar Ağaçlarıyla Sınıflandırma 
+  * Karar Ağaçlarıyla Lojistik OLmayan Regresyon İşlemleri
+  * Karar Ağaçlarıyla Diğer Sınıflandırma ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
 
-* __PyTorch ve Theano Kütüphanelerinin Kullanımları__
-
-  * PyTorch Kütüphanesinin Kurulumu
-  * PyToch Kütüphanesinin Temel Özellikleri
-  * PyTorch Kütüphanesinde Temel Çalışma Biçimi
-  * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
-  * Theano Kütüphanesinin Kurulumu
-  * Theano Kütüphanesinin Kurulumu
-  * Theano Kütüphanesinin Temel Özellikleri
-  * Theano Kütüphanesi ile Yapay Sinir Ağlarının Oluşturulması
-  
-  
 * __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
 
   * AutoKeras Kütüphanesinin Kullanımı
@@ -217,7 +219,7 @@
   * Pekiştirmeli Öğrenmede Kullanılabilecek Yüksek Seviyeli Kütüphaneler
   * Stable-Baselines Kütüphanesinin Kullanılması
 
-* __Cloud Ortamlarında Veri Bilimi ve Makine Öğrenmesi ile İlgili Temel Bilgiler__
+* __Veri Bilimi ve Makine Öğrenmesi İçin Cloud Ortamlarının Kullanılması__
 
   * Amazon AWS Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
   * Google Cloud Platform Üzerinde Veri Analizi ve Makine Öğrenmesi Uygulamaları
