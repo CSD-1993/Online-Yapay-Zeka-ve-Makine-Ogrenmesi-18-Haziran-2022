@@ -134,7 +134,7 @@
   * Lineer Denklem Sistemlerinin Çözümü
   * Özdeğerler ve Öz Vektörler
   
-* __Veriler Üzerinde Boyutsal Veri  İndirgemeleri__
+* __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
   * Düşük Varyans Filtremeleri
   * Yüksek Korelasyon Filtremeleri
