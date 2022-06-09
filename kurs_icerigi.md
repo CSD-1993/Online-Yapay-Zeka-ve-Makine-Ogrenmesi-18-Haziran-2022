@@ -191,10 +191,16 @@
   
   * __Karar Ağaçları (Decision Trees)___
 
-  * Karar Ağaçlarının Dayandığı MatematikselTemeller
+  * Karar Ağaçlarının Dayandığı Matematiksel Temeller
   * Karar Ağaçlarıyla Sınıflandırma 
   * Karar Ağaçlarıyla Lojistik OLmayan Regresyon İşlemleri
   * Karar Ağaçlarıyla Diğer Sınıflandırma ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
+  
+  * __Naive Bayes Yöntemiyle Sınıflandırma___
+  
+  * Koşullu Olasılık ve Naive Bayes Yönteminin Dayandığı Temeller
+  * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
+  * Naive Bayes Yönteminin Scikit-Learn Kütüphanesi Kullanılarak Uygulanması
 
 * __Makine Öğrenmesinde Ensemble Yöntemlerin Kullanılması__
 
@@ -203,6 +209,7 @@
   * Bagging Yöntemleri
   * Stacking Yöntemleri
   * Rassal Orman (Random Forest) Yöntemleri
+  * Diğer Ensemble Yöntemler
   * KFold Validation Yönteminin Anlamı ve Uygulama Alanları
   * Scikit-Learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
 
