@@ -117,16 +117,11 @@
 * __Denetimsiz Öğrenme (Unsupervised Learning)__
 
   * Kümeleme (Clustering) İşlemleri
-  * Kümeleme ve Sınıflandırma Arasındaki Frklılıklar
-  * K-Means Kümeleme Algoritmasının Gerçekleştirilmesi
-  * Scikit-Learn KMeans Sınıfının Kullanılması
-  * K-Means Kümelemesine Çeşitli Örnekler
-  * K-Means Yönteminde Ölçeklendirme
-  * K-Means Yönteminde Küme Sayılarının Belirlenmesi (Elbow ve Silhouette Yöntemleri)
+  * K-Means Kümeleme Yöntemi
   * Hiyerarşik Kümeleme Yöntemleri
-  * Agglomerative"ve Divisive Hiyerarşik Kümeleme Yöntemleri
-  * Hiyerarşik Kümeleme Yöntemlerinin Scikit-Learn Kütüphanesi İle Gerçekleştirimi
-  * K-Means Yöntemiyle Hiyerarşik Yöntemin Karşılaştırılması
+  * Yoğun Temelli DBSCAN ve OPTICS Kümeleme Yöntemleri
+  * Kümeleme İşlemlerinde Diğer Önemli Yöntemler
+  * Kümeleme Yöntemlerinin Birbirleriyle Karşılaştırılması
 
 * __Biraz Lineer Cebir__
 
@@ -139,16 +134,14 @@
   * Düşük Varyans Filtremeleri
   * Yüksek Korelasyon Filtremeleri
   * Geriye Doğru Özellik İndirgemeleri
-  * İleriye Doğru Özellik İndirgemeleri * 
+  * İleriye Doğru Özellik İndirgemeleri  
   * Faktör Analizi Yöntemi İle Boyutsal Veri İndirgemesi
   * Temel Bileşenler Analizi İle Boyutsal Veri İndirgemeler,
 
 * __Anomalilerin Belirlenmesi (Anomaly Detection)__
   
   * Anomalilerin Tespit Edilmesi İçin Yaklaşımlar
-  * Yoğunluk Tabanlı Anomali Tespit Yöntemleri
   * Kümeleme Tabanlı Anomali Tespit Yöntemleri
-  * DBSCAN Yöntemiyle Anomalilerin Tespit Edilmesi
 
 * __Matematiksel Optimizasyon İşlemleri__
 
@@ -162,20 +155,32 @@
   * Pyton'da Graf Problemleri İçin Kullanılan Kütüphaneler
   * Graf Çizimleri ve Graphwiz Kütüphanesinin Kullanımı
 
-* __İstatistiksel Yöntemlerle Regresyon Analizleri__
+* __İstatistiksel Yöntemlerle Regresyon İşlemleri__
 
   * Basit Doğrulsal Regresyon 
   * Çoklu Doğrusal Regresyon
+  * Çoklu Doğrusal Regresyonda Düzenleme İşlemleri
   * Polinomsal Regresyon
   * Scikit-Learn Kütüphanesi ile Regresyon İşlemleri
+  * İstatistiksel Lojistik Regresyon
+  * Doğrusal Olarak Ayrıştırılabilirlik ve Doğrusal Sınıflandırma
   * Gradient Descent Yöntemiyle Lojistik Regresyonlar
-  * Scikit-Learn LogisticRegression Sınıfının Kullanımı
-  * Karar Ağaçlarıyla Lojistik Regresyon
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
   * Çok Sınıflı (Multinomial) Lojistik Regresyon Modellerinin Scikit-Learn İle Çözümü
-  * Karar Ağaçları (Decision Trees)
-  * Destek Vektör Makineleri (Support Vector Machines)
-  * Rassal Ormanlar (Random Forests)
+  
+* __Destek Vektör Makineleri (Support Vector Machines)___
+
+  * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
+  * Destek Vektör Makineleri İle Lojistik Regresyon Problemlerinin Çözümü
+  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
+  * Destek Vektör Makineleri İle İstatistiksel Regresyon İşlemlerinin Karşılaştırılması
+  
+  * __Karar Ağaçları (Decision Trees)___
+
+  * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
+  * Destek Vektör Makineleri İle Lojistik Regresyon Problemlerinin Çözümü
+  * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
+  * Destek Vektör Makineleri İle İstatistiksel Regresyon İşlemlerinin Karşılaştırılması
 
 * __PyTorch ve Theano Kütüphanelerinin Kullanımları__
 
