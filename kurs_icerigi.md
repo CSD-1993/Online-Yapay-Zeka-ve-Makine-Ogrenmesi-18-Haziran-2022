@@ -59,7 +59,7 @@
   * Girdi Katmanlarının, Ara Katmanlaınr ve Çıktı Katmanlarının Oluşturulması
   * Keras'ta Yapay Sinir Ağı Modelinin Derlenmesi
   * Optimizasyon Algoritmaları ve Anlamı
-  * loss Fonksiyonu Nedir? Çok Kullanılan Loss Fonksiyonları
+  * Loss Fonksiyonu Nedir? Çok Kullanılan Loss Fonksiyonları
   * Keras'ta Yapay Sinir Ağı Modelinin Eğitilmesi
   * Epoch ve Batch Kavramları
   * Sınama (Validation) İşleminin Anlamı
@@ -93,7 +93,7 @@
   * Metinsel Çıktı Üretimleri
   * ChatBot İşlemleri
 
-* __Ses ve Görüntü Verileri Üzerinde Yapay Zeka İşlemleri__
+* __Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
   * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
   * Konuşma Verilerinde Sınıflandırma İşlemleri
@@ -124,7 +124,7 @@
   * PyTorch Kütüphanesinde Temel Çalışma Biçimi
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
-  *__Theano Kütüphanesinin Kullanımı__
+  * __Theano Kütüphanesinin Kullanımı__
   
   * Theano Kütüphanesinin Kurulumu
   * Theano Kütüphanesinin Kurulumu
