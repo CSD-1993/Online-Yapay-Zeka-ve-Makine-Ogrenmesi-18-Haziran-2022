@@ -128,7 +128,6 @@
   * Hiyerarşik Kümeleme Yöntemlerinin Scikit-Learn Kütüphanesi İle Gerçekleştirimi
   * K-Means Yöntemiyle Hiyerarşik Yöntemin Karşılaştırılması
 
-
 * __Biraz Lineer Cebir__
 
   * Matrisler ve Determinantlar
@@ -167,7 +166,6 @@
 
   * Basit Doğrulsal Regresyon 
   * Çoklu Doğrusal Regresyon
-  * Çok Değişkenli Doğrusal Regresyon
   * Polinomsal Regresyon
   * Scikit-Learn Kütüphanesi ile Regresyon İşlemleri
   * Gradient Descent Yöntemiyle Lojistik Regresyonlar
@@ -189,6 +187,13 @@
   * Theano Kütüphanesinin Kurulumu
   * Theano Kütüphanesinin Temel Özellikleri
   * Theano Kütüphanesi ile Yapay Sinir Ağlarının Oluşturulması
+  
+  
+* __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
+
+  * AutoKeras Kütüphanesinin Kullanımı
+  * AutoSklearn Kütüphanesinin Kullanımı
+  * TPOT Kütüphanesinin Kullanımı
 
 * __Pekiştirmeli Öğrenme (Reinforcemnt Learning)__
 
