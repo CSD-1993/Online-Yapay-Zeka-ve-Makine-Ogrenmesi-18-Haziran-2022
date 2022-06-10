@@ -92,7 +92,7 @@
   * Metinsel Çıktı Üretimleri
   * ChatBot İçin Snir Ağı Modelleri
 
-* __Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
+* __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
   * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
   * Konuşma Verilerinde Sınıflandırma İşlemleri
