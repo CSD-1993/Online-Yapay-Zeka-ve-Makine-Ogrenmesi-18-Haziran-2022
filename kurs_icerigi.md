@@ -184,7 +184,7 @@
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
   * Lojistik Regresyon Modellerinin Scikit-Learn Kütüphanesi İle Çözümü
   
-* __Destek Vektör Makineleri (Support Vector Machines)___
+* __Destek Vektör Makineleri (Support Vector Machines)__
 
   * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
   * Destek Vektör Makineleri İle Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
