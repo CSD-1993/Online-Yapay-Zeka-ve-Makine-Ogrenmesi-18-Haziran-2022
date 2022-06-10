@@ -180,7 +180,7 @@
   * İstatistiksel Lojistik Regresyon
   * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
   * Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
-  * Çok Sınıflı Lojistik Regresyonm Problemleri
+  * Çok Sınıflı Lojistik Regresyon Problemleri
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
   * Lojistik Regresyon Modellerinin Scikit-Learn Kütüphanesi İle Çözümü
   
@@ -195,7 +195,7 @@
 
   * Karar Ağaçlarının Dayandığı Matematiksel Temeller
   * Karar Ağaçlarıyla Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
-  * Karar Ağaçlarıyla Lojistik OLmayan Regresyon Problemlerinin Çözümü
+  * Karar Ağaçlarıyla Lojistik Olmayan Regresyon Problemlerinin Çözümü
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
   
 * __Naive Bayes Yöntemiyle Sınıflandırma__
@@ -234,7 +234,7 @@
   * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
   * Q-Learnibg Algoritması
   * Q-Learning Algoritması ile Örnekler
-  * Pekiştirmeli Öğrenmelerde Yapay Sinir Ağlarının Kullanımı
+  * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
   
 * __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
