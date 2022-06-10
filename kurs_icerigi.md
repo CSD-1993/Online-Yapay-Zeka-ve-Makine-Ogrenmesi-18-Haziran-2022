@@ -146,8 +146,8 @@
   * Yüksek Korelasyon Filtremeleri
   * Geriye Doğru Özellik İndirgemeler (Backward Feature Elimination)
   * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
-  * Faktör Analizi Yöntemi İle Boyutsal Veri İndirgemesi
-  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemesi
+  * Faktör Analizi Yöntemi İle Boyutsal Özellik İndirgemeleri
+  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemeleri
 
 * __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
   
