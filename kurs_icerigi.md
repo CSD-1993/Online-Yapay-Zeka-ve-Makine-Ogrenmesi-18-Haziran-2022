@@ -109,8 +109,7 @@
   * Tensor Nesnelerinin Oluşturulması
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
-  
-  * __PyTorch Kütüphanesinin Kullanımı__
+
 
   * PyTorch Kütüphanesinin Kurulumu
   * PyToch Kütüphanesinin Temel Özellikleri
