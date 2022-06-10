@@ -128,11 +128,11 @@
 * __Denetimsiz Öğrenme (Unsupervised Learning)__
 
   * Kümeleme (Clustering) İşlemleri
-  * K-Means Kümeleme Yöntemi
-  * Hiyerarşik Kümeleme Yöntemleri
-  * Yoğunkluk Temelli DBSCAN ve OPTICS Kümeleme Yöntemleri
-  * Kümeleme İşlemlerinde Çok Kullanılan Diğer Algoritmeik Yöntemler
-  * Kümeleme Yöntemlerinin Birbirlerine Göre Avantajlarının ve Dezavantajlarının Karşılaştırılması
+  * K-Means Kümeleme Algoritması
+  * Hiyerarşik Kümeleme Algoritmaları
+  * Yoğunkluk Temelli DBSCAN ve OPTICS Kümeleme Algoritmaları
+  * Kümeleme İşlemlerinde Kullanılan Diğer Önemli Algoritmalar
+  * Kümeleme Algoritmalarının Çeşitli Bakımlardan Birbirleriyle Karşılaştırılması
 
 * __Biraz Lineer Cebir__
 
@@ -142,10 +142,11 @@
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
+  * Eksik Değerli Sütunların Atılması (Missing Value Ratio)
   * Düşük Varyans Filtremeleri
   * Yüksek Korelasyon Filtremeleri
-  * Geriye Doğru Özellik İndirgemeleri
-  * İleriye Doğru Özellik İndirgemeleri  
+  * Geriye Doğru Özellik İndirgemeler (Backward Feature Elimination)
+  * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination): 
   * Faktör Analizi Yöntemi İle Boyutsal Veri İndirgemesi
   * Temel Bileşenler Analizi İle Boyutsal Veri İndirgemeler,
 
