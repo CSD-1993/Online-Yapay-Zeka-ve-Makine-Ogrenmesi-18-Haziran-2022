@@ -146,15 +146,15 @@
   * Düşük Varyans Filtremeleri
   * Yüksek Korelasyon Filtremeleri
   * Geriye Doğru Özellik İndirgemeler (Backward Feature Elimination)
-  * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination): 
+  * İleriye Doğru Özellik İndirgemeleri (Forward Feature Elimination)
   * Faktör Analizi Yöntemi İle Boyutsal Veri İndirgemesi
-  * Temel Bileşenler Analizi İle Boyutsal Veri İndirgemeler,
+  * Temel Bileşenler Analizi İle Boyutsal Boyutsal İndirgemesi
 
 * __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
   
   * Anomalilerin Tespit Edilmesi İçin Yaklaşımlar
   * Kümeleme Tabanlı Anomali Tespit Yöntemleri
-  * Anomalilerin Tespit Edilmesi İçin Kullanılan DiğerÖneli Yaklaşımlar
+  * Anomalilerin Tespit Edilmesi İçin Kullanılan Diğer Önemli Yaklaşımlar
 
 * __Matematiksel Optimizasyon İşlemleri__
 
@@ -164,9 +164,9 @@
   * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
   * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
   * Graf Veri Yapıları
-  * Graflar Üzerinde Optimizasyon Problemleri (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
+  * Graflar Üzerinde Optimizasyon Problemlerinin Çözümü (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
   * Pyton'da Graf Problemleri İçin Kullanılan Kütüphaneler
-  * Graf Çizimleri ve Graphwiz Kütüphanesinin Kullanımı
+  * Graf Çizimleri İçin Graphwiz Kütüphanesinin Kullanımı
 
 * __İstatistiksel Yöntemlerle Regresyon İşlemleri__
 
@@ -176,12 +176,13 @@
   * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
   * Lasso, Ridge ve Elastic Net Regresyonları
   * Polinomsal Regresyon
-  * Scikit-Learn Kütüphanesi ile Regresyon İşlemleri
+  * Scikit-Learn Kütüphanesi ile Doğrusal Regresyon İşlemleri
   * İstatistiksel Lojistik Regresyon
-  * Doğrusal Olarak Ayrıştırılabilirlik ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
-  * Gradient Descent Yöntemiyle Lojistik Regresyonlar
+  * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
+  * Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
+  * Çok Sınıflı Lojistik Regresyonm Problemleri
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
-  * Çok Sınıflı (Multinomial) Lojistik Regresyon Modellerinin Scikit-Learn Kütüphanesi İle Çözümü
+  * Lojistik Regresyon Modellerinin Scikit-Learn Kütüphanesi İle Çözümü
   
 * __Destek Vektör Makineleri (Support Vector Machines)___
 
