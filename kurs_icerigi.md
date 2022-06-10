@@ -150,20 +150,21 @@
   * Faktör Analizi Yöntemi İle Boyutsal Veri İndirgemesi
   * Temel Bileşenler Analizi İle Boyutsal Veri İndirgemeler,
 
-* __Anomalilerin Belirlenmesi (Anomaly Detection)__
+* __Anomalilerin Tespit Edilmesi (Anomaly Detection)__
   
   * Anomalilerin Tespit Edilmesi İçin Yaklaşımlar
   * Kümeleme Tabanlı Anomali Tespit Yöntemleri
+  * Anomalilerin Tespit Edilmesi İçin Kullanılan DiğerÖneli Yaklaşımlar
 
 * __Matematiksel Optimizasyon İşlemleri__
 
   * Maksimizasyon ve Minimizasyon Problemleri
   * Gradient Ascent ve Gradient Descent Algoritmalarının Anlamı
   * Stochastic Gradient Algoritmalar ve Mini Batch Yöntemleri
-  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle  Çözümü 
-  * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Tanıtımı
-  * Graflar 
-  * Graflar Üzerinde Optimizasyon Problemleri (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçükm Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
+  * Doğrusal Programlama ve Doğrusal Karar Modellerinin Scipy ve Pulp Kütüphaneleri İle Çözümü 
+  * Doğrusal Olmayan Programlama ve Doğrusal Olmayan Modellerin Çözümü İçin Yaklaşımlar
+  * Graf Veri Yapıları
+  * Graflar Üzerinde Optimizasyon Problemleri (Gezgin Satıcı Problemi,  En Kısa Yol Problemi, En Küçük Örten Ağaç Problemi, Hamilton ve Euler Turlu Problemler vs.)
   * Pyton'da Graf Problemleri İçin Kullanılan Kütüphaneler
   * Graf Çizimleri ve Graphwiz Kütüphanesinin Kullanımı
 
@@ -171,32 +172,35 @@
 
   * Basit Doğrusal Regresyon 
   * Çoklu Doğrusal Regresyon
-  * Çoklu Doğrusal Regresyonda Düzenleme İşlemleri
+  * Çoklu Doğrual Regresyonun Önemli Sorunları
+  * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
+  * Lasso, Ridge ve Elastic Net Regresyonları
   * Polinomsal Regresyon
   * Scikit-Learn Kütüphanesi ile Regresyon İşlemleri
   * İstatistiksel Lojistik Regresyon
-  * Doğrusal Olarak Ayrıştırılabilirlik ve Doğrusal Sınıflandırma
+  * Doğrusal Olarak Ayrıştırılabilirlik ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
   * Gradient Descent Yöntemiyle Lojistik Regresyonlar
   * Lojistik Regresyon Yöntemlerinin Karşılaştırılması
-  * Çok Sınıflı (Multinomial) Lojistik Regresyon Modellerinin Scikit-Learn İle Çözümü
+  * Çok Sınıflı (Multinomial) Lojistik Regresyon Modellerinin Scikit-Learn Kütüphanesi İle Çözümü
   
 * __Destek Vektör Makineleri (Support Vector Machines)___
 
   * Destek Vektör Makinelerinin Dayandığı Matematiksel Temel
-  * Destek Vektör Makineleri İle Lojistik Regresyon Problemlerinin Çözümü
+  * Destek Vektör Makineleri İle Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
   * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
-  * Destek Vektör Makineleri İle İstatistiksel Regresyon İşlemlerinin Karşılaştırılması
+  * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
   
   * __Karar Ağaçları (Decision Trees)___
 
   * Karar Ağaçlarının Dayandığı Matematiksel Temeller
-  * Karar Ağaçlarıyla Sınıflandırma 
-  * Karar Ağaçlarıyla Lojistik OLmayan Regresyon İşlemleri
-  * Karar Ağaçlarıyla Diğer Sınıflandırma ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
+  * Karar Ağaçlarıyla Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
+  * Karar Ağaçlarıyla Lojistik OLmayan Regresyon Problemlerinin Çözümü
+  * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
   
   * __Naive Bayes Yöntemiyle Sınıflandırma___
   
-  * Koşullu Olasılık ve Naive Bayes Yönteminin Dayandığı Temeller
+  * Koşullu Olasılık Kavramı 
+  * Naive Bayes Yönteminin Dayandığı Temeller
   * Naive Bayes Yönteminin Varyasyonları (Gaussian Naive Bayes, Multinomial Naive Bayes, Categorical Naive Bayes, ...)
   * Naive Bayes Yönteminin Scikit-Learn Kütüphanesi Kullanılarak Uygulanması
 
@@ -206,9 +210,9 @@
   * Boosting Yöntemleri 
   * Bagging Yöntemleri
   * Stacking Yöntemleri
-  * Rassal Orman (Random Forest) Yöntemleri
+  * Rassal Ormanlar (Random Forests) 
   * Diğer Ensemble Yöntemler
-  * KFold Validation Yönteminin Anlamı ve Uygulama Alanları
+  * KFold Validation İşleminin Anlamı ve Uygulama Alanları
   * Scikit-Learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
 
 * __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
@@ -231,28 +235,19 @@
   * Q-Learning Algoritması ile Örnekler
   * Pekiştirmeli Öğrenmelerde Yapay Sinir Ağlarının Kullanımı
   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
-  * Pekiştirmeli Öğrenmede Kullanılabilecek Yüksek Seviyeli Kütüphaneler
-  * Stable-Baselines Kütüphanesinin Kullanılması
+  
+  * __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
 
-* __Veri Bilimi ve Makine Öğrenmesi İçin Cloud Ortamlarının Kullanılması__
+  * Stable-Baselines Kütüphanesinin Kullanımı
+  * Keras-RL Kütüphanesinin Kullanımı
 
+* __Veri Bilimi ve Makine Öğrenmesi İçin Cloud Platformlarının Kullanılması__
+
+  * Cloud Platformlarının Özellikleri, Avantajları ve Dezavantajları
   * Amazon AWS SageMaker İle Makine Öğrenmesi Uygulamaları
-  * Google Cloud Platform Üzerinde Makine Öğrenmesi Uygulamaları
-  * Microsoft Azure Platformu Üzerinde Makine Öğrenmesi Uygulamaları
-  * IBM Watson Platformu Üzerinde Makine Öğrenmesi Uygulamaları
-
-
-
-
-
-
-
-
-
-
-
-
-
+  * Microsoft Azure Platformu İle Makine Öğrenmesi Uygulamaları
+  * Google Cloud Platform İle Makine Öğrenmesi Uygulamaları
+  * IBM Watson Platformu İle Makine Öğrenmesi Uygulamaları
 
 
 
