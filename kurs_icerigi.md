@@ -25,7 +25,7 @@
   
   * İstatistiksel Ölçek Türleri 
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
-  * One Hot Encoding İşlemi ve Anlamı
+  * One Hot Encoding Dönüştürmesi
   * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik
   * Anakütle ve Örneklem Kavramları
   * Olasılıkla İlgili Temel Bilgiler 
@@ -50,7 +50,7 @@
   * Yapay Nöron Modeli
   * Yapay Bir Nöronun Python'da Sınıfsal Temsili
   * Aktivasyon Fonksiyonları ve Nöron Bağlantıları
-  * Yapay Sinir Ağlarında Katmanlar ve Derin Öğrenme Ağları
+  * Yapay Sinir Ağlarında Katmanlar
   * Yapay Sinir Ağlarında Yaygın Kullanılan Kütüphaneler ve Framework'ler
   * Denetimli Yapay Sinir Ağlarında Veri Kümeleri (Eğitim Veri Kümesi, Sınama Veri Kümesi ve Test Veri Kümesi)
   * Keras Kütüphanesinin Kısa Tarihi
