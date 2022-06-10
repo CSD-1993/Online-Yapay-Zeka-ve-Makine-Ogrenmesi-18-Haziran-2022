@@ -56,42 +56,41 @@
   * Keras Kütüphanesinin Kısa Tarihi
   * Keras Kütüphanesinin Kurulumu
   * Yapay Sinir Ağlarının Keras Kütüphanesi İle Yüksek Seviyeli Biçimde Oluşturulması
-  * Girdi Katmanlarının, Ara Katmanlaınr ve Çıktı Katmanlarının Oluşturulması
-  * Keras'ta Yapay Sinir Ağı Modelinin Derlenmesi
-  * Optimizasyon Algoritmaları ve Anlamı
-  * Loss Fonksiyonu Nedir? Çok Kullanılan Loss Fonksiyonları
+  * Girdi Katmanlarının, Ara Katmanların ve Çıktı Katmanlarının Oluşturulması
+  * Loss Fonksiyonlarının Anlamı ve Çok Kullanılan Loss Fonksiyonları
+  * Optimizasyon Algoritmalarının Anlamı ve Çok Kullanılan Optimizasyon Algoritmaları
   * Keras'ta Yapay Sinir Ağı Modelinin Eğitilmesi
   * Epoch ve Batch Kavramları
   * Sınama (Validation) İşleminin Anlamı
-  * Test Veri Kümesi ve Modelin Test Edilmesi
+  * Test Veri Kümesi ve Yapay Sinir Ağı Modelinin Test Edilmesi
   * Keras Modelinin Dosyalarda Saklanması ve Geri Yüklenmesi
   * Keras'ta Callback Mekanizması
-  * Sinir Ağı Verilerinin Ölçeklenmesi 
+  * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
   * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
-  * Kestirim Modeli Olarak Yapay Zeka Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar
-  * Yapay Sinir Ağlarıyla Lojistik Regresyon Örnekleri
-  * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Lojistik Regresyon Örnekleri
-  * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Örnekleri
+  * Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
+  * Yapay Sinir Ağlarıyla Lojistik Regresyon (Sınıflandırma) Problemleri
+  * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Lojistik Regresyon Modelleri
+  * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
   * Yapay Sinir Ağlarıyla Çok Değişkenli (Multivariate) Regresyon Örnekleri
-  * Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
+  * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
   * Keras'ta Evrişimsel Sinir Ağları İle İşlemler
-  * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması  (Downsampling)
+  * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
   * Keras'ta Eğitimin Belli Bir Durumda Sonlandırılması
   * Geri Beslemeli Sinir Ağları (Recurrent Neural Networks)
   * Geri Beslemeli Sinir Ağlarında SimpleRNN, LSTM ve GRU Katmanları
   * Çift Yönlü LSTM Katmanları
-  * Geri Beslemeli Ağların Kestirimde Kullanılmaları
+  * Geri Beslemeli Sinir Ağlarının Kestirimde Kullanılmaları
   * Geri Beslemeli Sinir Ağlarına İlişkin Örnekler
   * Autoencoder Modelleri
   * Keras Modellerinin Fonksiyonel Olarak Oluşturulması
 
 * __Yapay Sinir Ağları İle Metinler Üzerinde İşlemler__
 
-  * Metinsel Verilerde Embedding İşlemleri
+  * Metinsel Verilerde Word Embedding İşlemleri
   * Metinlerin İçeriğe Göre Sınıflandırılması
   * Metinlerden Anlam Çıkarılması
   * Metinsel Çıktı Üretimleri
-  * ChatBot İşlemleri
+  * ChatBot İçin Snir Ağı Modelleri
 
 * __Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
@@ -107,20 +106,15 @@
 
   * TensorFlow kütüphanesinin Tarihsel Gelişimi
   * TensorFlow Küyüphenesinin Kurulumu
-  * TensowFlow Kütüphansinin 1'li Versyonlarının Kullanımı
   * Tensor Nesnelerinin Oluşturulması
-  * TensorFlow'da Değişkenler
-  * İfadelerin İşetilmesi ve Session Kavramı
-  * Değişkenler ve Sabitler Üzerinde eval İşlemleri
-  * TensorFlow'da Yer Turucular (Place Holders)
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
-  * TensowFlow Kütüphansinin 2'li Versyonlarının Kullanımı
   
   * __PyTorch Kütüphanesinin Kullanımı__
 
   * PyTorch Kütüphanesinin Kurulumu
   * PyToch Kütüphanesinin Temel Özellikleri
+  * Tensor Nesnelerinin Oluşturulması
   * PyTorch Kütüphanesinde Temel Çalışma Biçimi
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
@@ -137,8 +131,8 @@
   * K-Means Kümeleme Yöntemi
   * Hiyerarşik Kümeleme Yöntemleri
   * Yoğunkluk Temelli DBSCAN ve OPTICS Kümeleme Yöntemleri
-  * Kümeleme İşlemlerinde Diğer Önemli Yöntemler
-  * Kümeleme Yöntemlerinin Birbirleriyle Karşılaştırılması
+  * Kümeleme İşlemlerinde Çok Kullanılan Diğer Algoritmeik Yöntemler
+  * Kümeleme Yöntemlerinin Birbirlerine Göre Avantajlarının ve Dezavantajlarının Karşılaştırılması
 
 * __Biraz Lineer Cebir__
 
