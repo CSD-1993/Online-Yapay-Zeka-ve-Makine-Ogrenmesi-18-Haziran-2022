@@ -237,7 +237,7 @@
   * Pekiştirmeli Öğrenmelerde Yapay Sinir Ağlarının Kullanımı
   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
   
-  * __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
+* __Pekiştirmeli Öğrenmede Kullanılan Yüksek Seviyeli Kütüphaneler__
 
   * Stable-Baselines Kütüphanesinin Kullanımı
   * Keras-RL Kütüphanesinin Kullanımı
