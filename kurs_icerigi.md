@@ -90,8 +90,7 @@
   * Metinlerin İçeriğe Göre Sınıflandırılması
   * Metinlerden Anlam Çıkarılması
   * Metinsel Çıktı Üretimleri
-  * ChatBot İçin Snir Ağı Modelleri
-
+  
 * __Yapay Sinir Ağları İle Ses ve Görüntü Verileri Üzerinde Sınıflandırma ve Tanıma İşlemleri__
 
   * Konuşma Kayıtlarına İlişkin Verilerle Çalışma
