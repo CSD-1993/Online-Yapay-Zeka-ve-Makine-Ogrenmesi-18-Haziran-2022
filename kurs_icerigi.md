@@ -39,7 +39,7 @@
   
 * __Yapay Sinir Ağları__
 
-  * İnsanın Sinir Sisteminin Anatomi ve Fizyolojisi İle İlgili Temel Bilgiler (Nöronlar, Nörotransmiter'ler, Sinaps'lar)
+  * İnsanın Sinir Sisteminin Anatomi ve Fizyolojisi İle İlgili Temel Bilgiler (Nöronlar, Nörotransmiter'ler, Sinaps'lar, REseptöeler, ...)
   * Öğrenme Beyinde Nasıl Gerçekleşmektedir? 
   * Bilgiler Beyinde Nasıl Tutulmaktadır? 
   * Duyum ve Algı Kavramları 
