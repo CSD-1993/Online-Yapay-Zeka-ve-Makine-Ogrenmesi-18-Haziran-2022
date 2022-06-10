@@ -191,14 +191,14 @@
   * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
   * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
   
-* __Karar Ağaçları (Decision Trees)___
+* __Karar Ağaçları (Decision Trees)__
 
   * Karar Ağaçlarının Dayandığı Matematiksel Temeller
   * Karar Ağaçlarıyla Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
   * Karar Ağaçlarıyla Lojistik OLmayan Regresyon Problemlerinin Çözümü
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
   
-  * __Naive Bayes Yöntemiyle Sınıflandırma___
+  * __Naive Bayes Yöntemiyle Sınıflandırma__
   
   * Koşullu Olasılık Kavramı 
   * Naive Bayes Yönteminin Dayandığı Temeller
