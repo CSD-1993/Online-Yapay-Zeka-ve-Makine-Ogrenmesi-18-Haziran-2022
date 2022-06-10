@@ -19,7 +19,7 @@
   * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi
   * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir? 
   * Python'da Veri Kümelerinin Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
-  * Python'da CSV Dosyalarından, Excel Dosyalarından, Veritabanlarından Veri Kümelerinin Okunması
+  * Python'da Veri Kümelerinin CSV Dosyalarından, Excel Dosyalarından ve Veritabanlarından Okunması
 
 * __Biraz İstatistik__
   
@@ -176,7 +176,7 @@
   * Çoklu Doğrusal Regresyonda Düzenleme (Regulation) İşlemleri
   * Lasso, Ridge ve Elastic Net Regresyonları
   * Polinomsal Regresyon
-  * Scikit-Learn Kütüphanesi ile Doğrusal Regresyon İşlemleri
+  * Scikit-Learn Kütüphanesi ile Doğrusal ve Polinomsal Regresyon İşlemleri
   * İstatistiksel Lojistik Regresyon
   * Doğrusal Olarak Ayrıştırılabilirlik (Linear Separability) ve Doğrusal Sınıflandırıcılar (Linear Classifiers)
   * Lojistik Regresyon Problemlerinin Gradient Descent Yöntemlerle Çözülmesi
@@ -191,7 +191,7 @@
   * Destek Vektör Makineleri İle Lojistik Olmayan Regresyon Problemlerinin Çözümü
   * Destek Vektör Makineleri İle İstatistiksel Regresyon Yöntemlerinin Karşılaştırılması
   
-  * __Karar Ağaçları (Decision Trees)___
+* __Karar Ağaçları (Decision Trees)___
 
   * Karar Ağaçlarının Dayandığı Matematiksel Temeller
   * Karar Ağaçlarıyla Lojistik Regresyon (Sınıflandırma) Problemlerinin Çözümü
