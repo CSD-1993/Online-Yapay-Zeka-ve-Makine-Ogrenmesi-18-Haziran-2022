@@ -110,6 +110,7 @@
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
 
+* __PyTorch Kütüphanesinin Kullanımı__
 
   * PyTorch Kütüphanesinin Kurulumu
   * PyToch Kütüphanesinin Temel Özellikleri
@@ -117,7 +118,7 @@
   * PyTorch Kütüphanesinde Temel Çalışma Biçimi
   * PyTorch ile Yapay Sinir Ağlarının Oluşturulması
   
-  * __Theano Kütüphanesinin Kullanımı__
+* __Theano Kütüphanesinin Kullanımı__
   
   * Theano Kütüphanesinin Kurulumu
   * Theano Kütüphanesinin Kurulumu
