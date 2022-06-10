@@ -198,7 +198,7 @@
   * Karar Ağaçlarıyla Lojistik OLmayan Regresyon Problemlerinin Çözümü
   * Karar Ağaçlarıyla Diğer Lojistik ve Lojistik Olmayan Regresyon Modellerinin Karşılaştırılması
   
-  * __Naive Bayes Yöntemiyle Sınıflandırma__
+* __Naive Bayes Yöntemiyle Sınıflandırma__
   
   * Koşullu Olasılık Kavramı 
   * Naive Bayes Yönteminin Dayandığı Temeller
