@@ -7,7 +7,7 @@
    * Python Programlama Dilinin Yeniden Gözden Geçirilmesi
    * Scipy, Numpy, Pandas ve Matplotlib Kütüphanelerinin Yeniden Gözden Geçirilmesi
 
-* __Temel Kavramlar ve Konular__
+* __Temel Kavramlar__
 
   * Yapay Zeka Çalışmalarının Tarihsel Gelişimi
   * Yapay Zekanın Alt Alanları
@@ -18,7 +18,6 @@
   * Makine Öğrenmesinin Çeşitleri: Denetimli (Supervised) Öğrenme, Denetimsiz (Unsupervised) Öğrenme ve Pekiştirmeli (Reinforcement) Öğrenme Kavramları
   * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi
   * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir? 
-  * İstatistiksel Ölçek Türleri 
   * Python'da Veri Kümelerinin Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
   * Python'da CSV Dosyalarından, Excel Dosyalarından, Veritabanlarından Veri Kümelerinin Okunması
   * Kategorik (Nominal) ve Sıralı (Ordinal) Verilerin Sayısal Biçime Dönüştürülmesi
@@ -26,6 +25,7 @@
 
 * __Biraz İstatistik__
   
+  * İstatistiksel Ölçek Türleri 
   * Betimsel (Descriptive) ve Çıkarımsal (Inferential) İstatistik
   * Anakütle ve Örneklem Kavramları
   * Olasılıkla İlgili Temel Bilgiler 
