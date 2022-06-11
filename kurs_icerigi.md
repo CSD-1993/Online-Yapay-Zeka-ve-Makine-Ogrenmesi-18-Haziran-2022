@@ -231,8 +231,8 @@
   * OpenAI GYM Ortamı
   * OpenAI GYM Simülatörlerinin Kullanılması
   * Pekiştirmeli Öğrenmede Kullanılan Algoritmalar
-  * Q-Learnibg Algoritması
-  * Q-Learning Algoritması ile Örnekler
+  * Q-Learning Algoritması
+  * Q-Learning Algoritması ile GYM Simülatörleri Üzerinde Örnekler
   * Pekiştirmeli Öğrenmede Yapay Sinir Ağlarının Kullanımı
   * Pekiştirmeli Öğrenmede Deep Q-Learning Yöntemleri
   
