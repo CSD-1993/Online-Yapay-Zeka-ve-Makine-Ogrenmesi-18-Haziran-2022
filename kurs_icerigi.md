@@ -214,6 +214,7 @@
   * Diğer Ensemble Yöntemler
   * KFold Validation İşleminin Anlamı ve Uygulama Alanları
   * Scikit-Learn Kütüphanesi Kullanılarak Ensemble Yöntemlerin Uygulanması
+  * XGBoost Kütüphanesinin Kullanımı
 
 * __Otomatik Makine Öğrenmesine (Automated Machine Learning) İlişkin Kütüphanelerin Kullanımı__
 
@@ -241,14 +242,13 @@
   * Stable-Baselines Kütüphanesinin Kullanımı
   * Keras-RL Kütüphanesinin Kullanımı
 
-* __Veri Bilimi ve Makine Öğrenmesi İçin Cloud Platformlarının Kullanılması__
+* __Makine Öğrenmesi İçin Cloud Platformlarının Kullanılması__
 
   * Cloud Platformlarının Özellikleri, Avantajları ve Dezavantajları
-  * Amazon AWS SageMaker İle Makine Öğrenmesi Uygulamaları
-  * Microsoft Azure Platformu İle Makine Öğrenmesi Uygulamaları
-  * Google Cloud Platform İle Makine Öğrenmesi Uygulamaları
-  * IBM Watson Platformu İle Makine Öğrenmesi Uygulamaları
-
+  * Makine Öğrenmesi İçin Amazon AWS SageMaker Platformunun Kullanımı
+  * Makine Öğrenmesi İçin Microsoft Azure Platformunun Kullanımı
+  * Makine Öğrenmesi İçin Google Cloud Platformunun Kullanımı
+  * Makine Öğrenmesi İçin IBM Watson Platformunun Kullanımı 
 
 
 
