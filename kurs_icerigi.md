@@ -102,7 +102,7 @@
 * __TensorFlow Kütüphanesinin Kullanımı__
 
   * TensorFlow kütüphanesinin Tarihsel Gelişimi
-  * TensorFlow Küyüphenesinin Kurulumu
+  * TensorFlow Kütüphenesinin Kurulumu
   * Tensor Nesnelerinin Oluşturulması
   * Yapay Sinir Ağı Modellerinin TensorFlow'da Oluşturulması
   * TensorFlow'da Yapay Sinir Ağı Örnekleri
