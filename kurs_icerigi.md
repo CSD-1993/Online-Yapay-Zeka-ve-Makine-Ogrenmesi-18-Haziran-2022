@@ -19,7 +19,6 @@
   * Makine Öğrenmesinin Diğer Disiplinlerle İlgisi
   * Makine Öğrenmesi İçin Ne Kadar Matematik ve İstatistik Bilmek Gerekir? 
   * Python'da Veri Kümelerinin Dosyalardan Okunması ve Kullanıma Hazır Hale Getirilmesi
-  * Python'da Veri Kümelerinin CSV Dosyalarından, Excel Dosyalarından ve Veritabanlarından Okunması
 
 * __Biraz İstatistik__
   
@@ -39,7 +38,7 @@
   
 * __Yapay Sinir Ağları__
 
-  * İnsanın Sinir Sisteminin Anatomi ve Fizyolojisi İle İlgili Temel Bilgiler (Nöronlar, Nörotransmiter'ler, Sinaps'lar, REseptöeler, ...)
+  * İnsanın Sinir Sisteminin Anatomi ve Fizyolojisi İle İlgili Temel Bilgiler (Nöronlar, Nörotransmiter'ler, Sinaps'lar, Reseptöeler, ...)
   * Öğrenme Beyinde Nasıl Gerçekleşmektedir? 
   * Bilgiler Beyinde Nasıl Tutulmaktadır? 
   * Duyum ve Algı Kavramları 
@@ -68,10 +67,9 @@
   * Yapay Sinir Ağlarında Özellik Ölçeklemeleri (Feature Scaling) 
   * Yapay Sinir Ağlarında "Overfitting" ve "Underfitting" Olguları
   * Kestirim Modeli Olarak Yapay Sinir Ağı Modelleri ile İstatistiksel Regresyon Modelleri Arasındaki Farklılıklar ve Benzerlikler
-  * Yapay Sinir Ağlarıyla Lojistik Regresyon (Sınıflandırma) Problemleri
-  * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Lojistik Regresyon Modelleri
+  * Yapay Sinir Ağlarıyla Sınıflandırma (Lojistik Regresyon) Problemleri
+  * Çok Sınıflı (Multinomial) ve Çok Etiketli (Multilabel) Sınıflandırma Modelleri
   * Yapay Sinir Ağlarıyla Lojistik Olmayan Regresyon Modelleri
-  * Yapay Sinir Ağlarıyla Çok Değişkenli (Multivariate) Regresyon Örnekleri
   * Yapay Sinir Ağlarında Evrişim (Convolution) İşlemleri ve Evrişimsel Sinir Ağları
   * Keras'ta Evrişimsel Sinir Ağları İle İşlemler
   * Evrişimsel Sinir Ağı Modellerinde Nöron Sayılarının Azaltılması (Downsampling)
@@ -137,7 +135,7 @@
 
   * Matrisler ve Determinantlar
   * Lineer Denklem Sistemlerinin Çözümü
-  * Özdeğerler ve Öz Vektörler
+  * Özdeğerler ve Özvektörler
   
 * __Veri Tablolarında Boyutsal Özellik İndirgemeleri__
 
