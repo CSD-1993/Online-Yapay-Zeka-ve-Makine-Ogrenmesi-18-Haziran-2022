@@ -34,7 +34,7 @@
   * Çok Karşılaşılan Bazı Sürekli Dağılımlar
   * Merkezi Limit Teoremi
   * Güven Aralıkları (Confidence Intervals)
-  * İstatistiksel Hipotez Testleri, Hipotez Testlerinde Kullanılan Kavramlar ve Onların Anlamları
+  * İstatistiksel Hipotez Testleri Hakkında Temel Bilgiler, Hipotez Testlerinde Kullanılan Kavramlar, Terimler ve Onların Anlamları
   
 * __Yapay Sinir Ağları__
 
